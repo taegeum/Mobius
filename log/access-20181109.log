@@ -1,0 +1,7 @@
+::ffff:127.0.0.1 - - [09/Nov/2018:06:47:52 +0000] "GET /Mobius HTTP/1.1" 200 - "-" "-"
+::ffff:127.0.0.1 - - [09/Nov/2018:06:47:52 +0000] "GET /Mobius HTTP/1.1" 200 - "-" "-"
+::ffff:127.0.0.1 - - [09/Nov/2018:06:47:52 +0000] "GET /Mobius HTTP/1.1" 200 - "-" "-"
+::ffff:127.0.0.1 - - [09/Nov/2018:06:47:54 +0000] "GET /Mobius?fu=1&ty=29 HTTP/1.1" 200 - "-" "-"
+::ffff:127.0.0.1 - - [09/Nov/2018:06:48:12 +0000] "POST /Mobius HTTP/1.1" 409 - "-" "-"
+::ffff:127.0.0.1 - - [09/Nov/2018:06:48:12 +0000] "POST /Mobius/smartCamera/button HTTP/1.1" 409 - "-" "-"
+::ffff:127.0.0.1 - - [09/Nov/2018:06:48:12 +0000] "POST /Mobius/smartCamera/cam_img HTTP/1.1" 409 - "-" "-"

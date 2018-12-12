@@ -1,0 +1,6 @@
+::ffff:127.0.0.1 - - [11/Dec/2018:10:36:01 +0000] "POST /Mobius HTTP/1.1" 409 - "-" "-"
+::ffff:127.0.0.1 - - [11/Dec/2018:10:36:01 +0000] "POST /Mobius HTTP/1.1" 409 - "-" "-"
+::ffff:127.0.0.1 - - [11/Dec/2018:10:36:01 +0000] "POST /Mobius/smartCamera/button HTTP/1.1" 409 - "-" "-"
+::ffff:127.0.0.1 - - [11/Dec/2018:10:36:16 +0000] "POST /Mobius HTTP/1.1" 409 - "-" "-"
+::ffff:127.0.0.1 - - [11/Dec/2018:10:36:16 +0000] "POST /Mobius HTTP/1.1" 409 - "-" "-"
+::ffff:127.0.0.1 - - [11/Dec/2018:10:36:16 +0000] "POST /Mobius/smartCamera/button HTTP/1.1" 409 - "-" "-"

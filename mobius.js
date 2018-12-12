@@ -13,8 +13,8 @@ global.usecsebase           = 'Mobius';
 global.usecseid             = '/Mobius';
 global.usecsebaseport       = conf.csebaseport;
 
-// global.usedbhost            = 'localhost';
-global.usedbhost            = 'mobius.c4f8trhirbsy.ap-northeast-2.rds.amazonaws.com';
+global.usedbhost            = 'localhost';
+//global.usedbhost            = 'mobius.c4f8trhirbsy.ap-northeast-2.rds.amazonaws.com';
 global.usedbpass            = conf.dbpass;                  //database 비번으로 초기화
 
 
@@ -24,7 +24,7 @@ global.usepxymqttport       = '7578';                       // mptt포트 초기
 
 global.usetsagentport       = '7582';
 
-global.usemqttbroker        = '114.70.21.42';                  // mqttbroker for mobius
+global.usemqttbroker        = 'localhost';                  // mqttbroker for mobius
 
 global.usesecure            = 'disable';                    // 안정성 확인
 if(usesecure === 'enable') {
